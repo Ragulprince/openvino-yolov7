@@ -32,10 +32,13 @@ In this project, we conducted a head-to-head comparison between two powerful obj
 
 ## Screenshots
 
-![YOLO Native - FP32](https://github.com/Ragulprince/dummy/assets/94695130/ed815ca3-7335-4117-af35-b71a5ada4e17)
+YOLOV7 Native
+![FP32](https://github.com/Ragulprince/openvino-yolov7/assets/94695130/42246cfe-bf35-44e3-a102-ba4609de14ab)
+
+INTEL ONEAPI-OPENVINO
+![INT8](https://github.com/Ragulprince/openvino-yolov7/assets/94695130/36bfc243-ee82-4dfc-963f-31376c60a3c4)
 
 
-![OPENVINO - INT8](https://github.com/Ragulprince/dummy/assets/94695130/8d628461-ff20-4531-8f58-1f4ebfc92d5d)
 
 ## Conclusion
 
