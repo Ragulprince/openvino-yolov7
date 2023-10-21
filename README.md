@@ -78,7 +78,7 @@ The information and guidance in this report were referenced from the [OpenVINO N
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Ragulprince/openvino-yolov7
 ```
 
 Open the Jupyter Notebook File
