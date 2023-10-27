@@ -1,5 +1,26 @@
 # Pothole Detection Showdown: YOLOv7 Native vs. Intel OneAPI
 
+#INTEL ONEAPI
+
+What is Intel OneAPI?
+
+Intel OneAPI is a comprehensive software stack developed by Intel that redefines the way we harness the power of diverse computing architectures for a wide range of workloads, including artificial intelligence and deep learning tasks. Its fundamental mission is to enable developers to create high-performance, cross-architecture applications with ease.
+
+How Does It Work?
+
+At its core, Intel OneAPI provides developers with a unified programming model that simplifies the process of creating applications that can run efficiently on a variety of Intel processors, GPUs, FPGAs, and other hardware accelerators. It is designed to abstract the complexities of the underlying hardware, allowing developers to focus on their application logic rather than the intricacies of specific architectures.
+
+Motto of Intel OneAPI
+
+The guiding motto of Intel OneAPI is "One API, One Language, One Stack." This encapsulates the essence of the project, emphasizing a singular, consistent interface for developers to target a multitude of Intel architectures. By providing a unified and consistent approach to software development, Intel OneAPI simplifies the path to high-performance, multi-architecture applications, ultimately bridging the gap between software and hardware.
+
+##LIBARIES USED
+
+OpenVINO
+
+OpenVINO, short for Open Visual Inference and Neural network Optimization, is the crown jewel within the Intel OneAPI Libraries. This toolkit serves as the linchpin in our pursuit of real-time pothole detection with unparalleled efficiency. OpenVINO excels at optimizing and deploying deep learning models across a spectrum of Intel hardware, ensuring peak performance. Not only did OpenVINO amplify our processing power, but it also simplified the intricate process of model conversion, streamlining our YOLOv7 implementation for Intel's architecture. Additionally, OpenVINO's integration with the Neural Network Compression Framework (NNCF) facilitated post-quantization, resulting in enhanced model efficiency. Through OpenVINO, we unlocked the true potential of our pothole detection system, making it a powerful and agile solution that transcends traditional boundaries.
+
+
 Project Description:
 In this project, we conducted a head-to-head comparison between two powerful object detection approaches, YOLOv7 native and Intel OneAPI Libraries, in the context of pothole detection. 🕳️
 
